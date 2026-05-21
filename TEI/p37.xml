@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader> 
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="chisciotte_avellaneda">Estratto dal Chisciotte di Avellaneda</title>             
+                <author>Alonso Fernández de Avellaneda</author>
+                <editor resp="digitale">Gimena del Rio</editor>  
+             </titleStmt>
+            <publicationStmt>
+                <publisher>Workshop Verona</publisher>
+                <availability>
+                    <licence>Creative Commons Share Alike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <bibl>
+                <title>Il secondo Chisciotte</title>
+                <author role="editor">Giovanna Calabro</author>
+                <publisher>Guida editori</publisher> 
+                <date>1983</date>
+                <pubPlace>Napoli, Italia</pubPlace>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+        <text>
+            <body>
+<pb n="p37"/>
+
+<head n="1">QUINTA PARTE DELL'INGEGNOSO HIDALGO <persName key="chisciotte">DON CHISCIOTTE DELLA MANCIA</persName> E DELLA SUA ERRABONDA CAVALLERIA</head>
+
+<head n="2">I</head>
+
+<head n="3">Come <persName key="chisciotte">don Chisciotte della Mancia</persName> ritornò alle sue follie di cavaliere errante, e dell'arrivo al paese di <placeName key="argamesillai">Argamesilla</placeName> di <note xml:id="p37nota1">certi cavalieri di Granada</note>.</head>
+
+<p>Il dotto storico <persName key="alisolano">Alisolán</persName>, non meno moderno che veritiero, dice che, dopo l'espulsione dei <note xml:id="p37nota2">mori agareni</note> dell'<placeName key="aragoni">Aragón</placeName>, dalla cui nazione egli discendeva, trovò in certi Annali di storia <note xml:id="p37rnota3">scritta in arabo,</note>la terza sortita che l'invitto hidalgo <persName key="chisciotte">don Chisciotte della Mancia</persName>, fece dal paese di <placeName key="argamesillai">Argamesilla</placeName> per andare ad alcune giostre che si celebravano nell'insigne città di <placeName key="zaragozai">Zaragoza</placeName>; e dice cosi:</p>
+
+<p>Don Chisciotte, dopo essere stato ricondotto al suo
+(...)</p>
+
+
+
+</body>
+</text>
+</TEI>
